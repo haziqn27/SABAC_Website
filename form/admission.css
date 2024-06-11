@@ -1,0 +1,7 @@
+#accept-btn {
+  background-color: #ffb300;
+  font-weight: bold;
+}
+#accept-btn:hover {
+  background-color: #00064b;
+}
